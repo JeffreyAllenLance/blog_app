@@ -82,4 +82,4 @@ production:
   <<: *default
   database: blog_app_production
   username: jeffrey
-  password: HiKi2,3ChAn
+  password: 
